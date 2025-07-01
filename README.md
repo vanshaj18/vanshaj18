@@ -1,10 +1,10 @@
-<h3 align="center">Hi there, I'm @vanshaj18 (Vanshaj) 👋</h3>
+<h3 align="center">Hi there, I'm @arithmic-vanshaj (Vanshaj) 👋</h3>
 
 ---
 
-🔬 **Present - Junior Research Scientist** at Arithmic Labs  
-🧠 Focused on building at the intersection of AI, cryptography, and blockchain infrastructure.
-🧪 From ZK proof systems to LLM agentic flows, I explore research-heavy tools and translate them into usable systems.
+🔬 **Junior Research Scientist** at Arithmic Labs  
+🧠 Focused on building at the intersection of AI, cryptography, and blockchain infrastructure  
+🧪 From ZK proof systems to LLM agentic flows, I explore research-heavy tools and translate them into usable systems
 
 ---
 
@@ -12,46 +12,47 @@
 
 #### 🧑‍💻 Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="35" title="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="SQL"/>
+</p>
+
+#### 🤖 AI & LLM Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Prompt Engineering"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="35" title="OpenAI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Google_Gemini_logo.svg/768px-Google_Gemini_logo.svg.png" width="35" title="Gemini"/>
+  <img src="https://avatars.githubusercontent.com/u/110956150?s=200&v=4" width="35" title="LangChain"/>
 </p>
 
 #### 🌐 Web Development & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" title="Express"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="90" height="35" title="Streamlit"/>
+  <img src="https://www.vectorlogo.zone/logos/oauthio/oauthio-icon.svg" width="35" title="OAuth2"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="35" title="REST APIs"/>
 </p>
 
-#### 🤖 AI & LLMs
-- LLM Prompt Engineering, Agentic Systems with LangChain & Agno  
-- Worked with OpenAI & Gemini APIs  
-- Knowledge graph pipelines & context-aware agents  
-- Focused on agent design, auto-prompting, and workflow orchestration
-
 #### ⛓️ Blockchain & Cryptography
-- Built PoCs involving ZK (Jolt), cryptographic primitives (curves, pairings)  
-- Researched consensus protocols and DApp architecture  
-- Rust compiler instrumentation, proof system optimization  
-- Worked with Bera Chain and Web3 onboarding
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Rust_programming_language_black_logo.svg" width="35" title="Rust DApps"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=032" width="35" title="zkVMs / Ethereum"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cryptography_icon.svg/1024px-Cryptography_icon.svg.png" width="35" title="Cryptography"/>
+</p>
 
 #### 📚 Writing & Collaboration
-- Technical documentation and BRD writing  
-- Contributor to product concept papers and protocol evaluations  
-- Community-facing content & dev support  
-
-#### 🗂️ Project Management & Dev Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="35" title="Slack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" title="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="35" title="Confluence"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="35" title="Notion"/>
 </p>
 
 ---
