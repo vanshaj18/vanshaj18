@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm @arithmic-vanshaj (Vanshaj) 👋</h3>
+<h3 align="center">Hi there, I'm @vanshaj18 (Vanshaj) 👋</h3>
 
 ---
 
