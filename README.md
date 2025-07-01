@@ -22,7 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="35" title="OpenAI"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Google_Gemini_logo.svg/768px-Google_Gemini_logo.svg.png" width="35" title="Gemini"/>
 <img src="https://avatars.githubusercontent.com/u/110956150?s=200&v=4" width="35" title="LangChain"/>
-<span title="Prompt Engineering">🖥️</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" title="Express.js"/>
@@ -31,7 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="35" title="REST APIs"/>
 <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=032" width="35" title="zkVMs / Ethereum"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cryptography_icon.svg/1024px-Cryptography_icon.svg.png" width="35" title="Cryptography"/>
-<span title="Rust-based DApps">🖥️</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="35" title="Notion"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" title="Jira"/>
