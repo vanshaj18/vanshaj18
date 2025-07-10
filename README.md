@@ -23,13 +23,13 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="35" title="Rust"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35" title="Go"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="SQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="100" title="Rust"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="100" title="Go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" title="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" title="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" title="SQL"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="100" title="OpenAI"/>
 
@@ -37,26 +37,26 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAdtAAZAA0" width="100" title="LangChain"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100" title="Node.js"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" title="React"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" title="Express.js"/>
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="90" height="35" title="Streamlit"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100" title="Express.js"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="90" height="100" title="Streamlit"/>
 
-<img src="https://oauth.net/images/oauth-2-sm.png" width="35" title="OAuth2"/>
+<img src="https://oauth.net/images/oauth-2-sm.png" width="100" title="OAuth2"/>
 
-<img src="https://cdn-icons-png.flaticon.com/128/1493/1493169.png" width="35" title="REST APIs"/>
+<img src="https://cdn-icons-png.flaticon.com/128/1493/1493169.png" width="100" title="REST APIs"/>
 
-<img src="https://cdn-icons-png.flaticon.com/128/14446/14446160.png" width="35" title="zkVMs / Ethereum"/>
+<img src="https://cdn-icons-png.flaticon.com/128/14446/14446160.png" width="100" title="zkVMs / Ethereum"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cryptography_icon.svg/1024px-Cryptography_icon.svg.png" width="35" title="Cryptography"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cryptography_icon.svg/1024px-Cryptography_icon.svg.png" width="100" title="Cryptography"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="35" title="Notion"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" title="Jira"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="35" title="Slack"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="35" title="Confluence"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" title="Git"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="100" title="Notion"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="100" title="Jira"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="100" title="Slack"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="100" title="Confluence"/>
 
 </p>
 
