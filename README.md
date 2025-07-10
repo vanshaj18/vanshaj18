@@ -50,7 +50,7 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 <img src="https://cdn-icons-png.flaticon.com/128/14446/14446160.png" width="100" title="zkVMs / Ethereum"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cryptography_icon.svg/1024px-Cryptography_icon.svg.png" width="100" title="Cryptography"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1163/1163519.png" width="100" title="Cryptography"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" title="Git"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="100" title="Notion"/>
