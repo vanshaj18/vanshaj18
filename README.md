@@ -33,10 +33,14 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="100" title="OpenAI"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Google_Gemini_logo.svg/768px-Google_Gemini_logo.svg.png" width="35" title="Gemini"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" title="Gemini"/>
+
 <img src="https://avatars.githubusercontent.com/u/110956150?s=200&v=4" width="35" title="LangChain"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" title="Express.js"/>
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="90" height="35" title="Streamlit"/>
 <img src="https://www.vectorlogo.zone/logos/oauthio/oauthio-icon.svg" width="35" title="OAuth2"/>
