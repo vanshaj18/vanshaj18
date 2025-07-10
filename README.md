@@ -30,7 +30,9 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="SQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="35" title="OpenAI"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="35" title="OpenAI"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Google_Gemini_logo.svg/768px-Google_Gemini_logo.svg.png" width="35" title="Gemini"/>
 <img src="https://avatars.githubusercontent.com/u/110956150?s=200&v=4" width="35" title="LangChain"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/>
