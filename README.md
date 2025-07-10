@@ -48,7 +48,7 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 <img src="https://cdn-icons-png.flaticon.com/128/1493/1493169.png" width="35" title="REST APIs"/>
 
-<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=032" width="35" title="zkVMs / Ethereum"/>
+<img src="https://cdn-icons-png.flaticon.com/128/14446/14446160.png" width="35" title="zkVMs / Ethereum"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cryptography_icon.svg/1024px-Cryptography_icon.svg.png" width="35" title="Cryptography"/>
 
