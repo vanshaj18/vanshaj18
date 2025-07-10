@@ -13,7 +13,7 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 ### 🌟 Highlights
 
 - 📚 **Academic Research**: Authored two peer-reviewed papers across astronomy and applied mathematics.
-- 🚀 **Leadership**: Former **Secretary of Astro Club**, led public talks, student mentorship, and event organizing.
+- 🚀 **Leadership**: Former **Additional Secretary of Physics and Astronomy Club**, conducted withing the group some new initiatives, enhancing astronomy reachout.
 - 🌍 **Global Projects**: Worked with international teams across technical writing, core astronomy, and computational physics.
 - 🧠 **Gen AI Product Builder**: Building AI-first products.
 
