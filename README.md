@@ -82,7 +82,7 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 ### 📈 Public Contributions
 
-[![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshaj18)](https://github.com/anuraghazra/github-readme-stats)
+[![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshaj18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 vanshaj18/vanshaj18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
