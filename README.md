@@ -35,7 +35,7 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" title="Gemini"/>
 
-<img src="https://avatars.githubusercontent.com/u/110956150?s=200&v=4" width="35" title="LangChain"/>
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAdtAAZAA0" width="35" title="LangChain"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/>
 
