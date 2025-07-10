@@ -43,10 +43,15 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" title="Express.js"/>
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="90" height="35" title="Streamlit"/>
-<img src="https://www.vectorlogo.zone/logos/oauthio/oauthio-icon.svg" width="35" title="OAuth2"/>
+
+<img src="https://oauth.net/images/oauth-2-sm.png" width="35" title="OAuth2"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="35" title="REST APIs"/>
+
 <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=032" width="35" title="zkVMs / Ethereum"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cryptography_icon.svg/1024px-Cryptography_icon.svg.png" width="35" title="Cryptography"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="35" title="Notion"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" title="Jira"/>
