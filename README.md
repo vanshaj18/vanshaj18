@@ -6,7 +6,7 @@
 
 A trained **astrophysicist** turned applied researcher. I hold a **Master’s in Astrophysics**, have **published two peer-reviewed papers** (one in astronomy, one in applied mathematics), and transitioned into building systems at the edge of **Gen AI**, **blockchain**, and **cryptography**.  
 
-I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where I build research-driven products—from **ZK proof systems** to **LLM-based agents** and SDKs for real-world use.
+I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where I build research-driven products—from **ZK proof systems** to **LLM-based agents** and SDKs for real-world use. Looking to go into the quantum industry with academic, software and research orientation. Aiming merging astrophysics and quantum computing research together. 
 
 ---
 
