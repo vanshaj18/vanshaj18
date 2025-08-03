@@ -4,18 +4,19 @@
 
 ### 🧑‍🚀 About Me
 
-A trained **astrophysicist** turned applied researcher. I hold a **Master’s in Astrophysics**, have **published two peer-reviewed papers** (one in astronomy, one in applied mathematics), and transitioned into building systems at the edge of **Gen AI**, **blockchain**, and **cryptography**.  
+I'm Vanshaj Kerni, a physics-trained researcher with interests in **astrophysics**, **observations**, **scientific ML**, **Agentic AI**, **differential equations** and **technology**. I hold **Master's in Physics (minor Astronomy)** from **Indian Institute of Technology Roorkee** honoured with **Department Gold Medal**. Published two peer-reviewed papers, presented work in 4+ conferences, associate member of the American Physical Society, Astronomical Society of India. Earlier associate member of the Indian Pulsar Timing Array and the Indian Physics Association.
 
-I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where I build research-driven products—from **ZK proof systems** to **LLM-based agents** and SDKs for real-world use. Looking to go into the quantum industry with academic, software and research orientation. Aiming merging astrophysics and quantum computing research together. 
+### Work
+I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where I build research-driven products—from **ZK proof systems** to **LLM-based agents** and SDKs for real-world use. Looking to go into the quantum industry with academic, software and research orientation. Aiming to merge astrophysics and quantum computing research. 
 
 ---
 
 ### 🌟 Highlights
 
 - 📚 **Academic Research**: Authored two peer-reviewed papers across astronomy and applied mathematics.
-- 🚀 **Leadership**: Former **Additional Secretary of Physics and Astronomy Club**, conducted withing the group some new initiatives, enhancing astronomy reachout.
+- 🚀 **Leadership**: Former **Additional Secretary of Physics and Astronomy Club**, spearheaded astronomy outreach activities, headed organising scientific lectures from renowned physicists.
 - 🌍 **Global Projects**: Worked with international teams across technical writing, core astronomy, and computational physics.
-- 🧠 **Gen AI Product Builder**: Building AI-first products.
+- 🧠 **Gen AI Product Builder**: Building AI-driven products for the general public and the astronomy community. Checkout: CiteRight[cite-right.vercel.app]
 
 ---
 
@@ -64,7 +65,7 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 ### 🧪 Research & Projects
 
-- 🧬 **ZK Proof System Optimization** – Built PoCs on zkVMs (Jolt) and explored performance tuning in proof generation.  
+- 🧬 **ZK Proof System Optimisation** – Built PoCs on zkVMs (Jolt) and explored performance tuning in proof generation.  
 - 🧠 **LLM Agentic Systems** – Built auto-prompting flows and agents using LangChain, OpenAI, and Gemini APIs.  
 - 🌐 **Cross-functional Projects** – Participated in projects combining astronomy, numerical physics, and core dev writing.  
 - 📖 **Scientific Writing** – Published work in astronomy and mathematics journals; co-authored concept papers and BRDs.
@@ -73,11 +74,12 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 
 ### 🌱 Currently Exploring
 
+- Quantum Algorithm Usage in astronomical fluids
 - A2A protocol and its real-world implementation  
 - LLM usage with RAG across verticals  
 - Integrating LLM agents with blockchain systems  
 - Architecting faster agent pipelines for low-latency systems
-
+  
 ---
 
 ### 📈 Public Contributions
