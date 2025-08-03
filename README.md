@@ -16,7 +16,7 @@ I currently work as a **Junior Research Scientist** at **Arithmic Labs**, where 
 - 📚 **Academic Research**: Authored two peer-reviewed papers across astronomy and applied mathematics.
 - 🚀 **Leadership**: Former **Additional Secretary of Physics and Astronomy Club**, spearheaded astronomy outreach activities, headed organising scientific lectures from renowned physicists.
 - 🌍 **Global Projects**: Worked with international teams across technical writing, core astronomy, and computational physics.
-- 🧠 **Gen AI Product Builder**: Building AI-driven products for the general public and the astronomy community. Checkout: CiteRight[cite-right.vercel.app]
+- 🧠 **Gen AI Product Builder**: Building AI-driven products for the general public and the astronomy community. Checkout: (Cite-Right)[cite-right.vercel.app]
 
 ---
 
